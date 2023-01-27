@@ -1,0 +1,16 @@
+Warning: Permanently added 'c121-043' (ECDSA) to the list of known hosts.
+WARNING (01/22/23 12:10:41): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5139973.hostlist.UtuLubJT to get hosts
+starting job on c121-043
+starting job on c166-002
+starting job on c166-003
+starting job on c166-004
+starting job on c166-144
+starting job on c166-151
+starting job on c166-152
+Terminated
+/opt/apps/intel19/impi19_0/remora/1.8.5/bin/scripts/remora_finalize.sh: line 107: [[: /scratch1 is mounted not "FULL" nor "IDLE"!
+
+1: syntax error: operand expected (error token is "/scratch1 is mounted not "FULL" nor "IDLE"!
+
+1")
